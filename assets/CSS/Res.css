@@ -198,10 +198,12 @@
 
    /* popup */
 
+   .overlay{
+    bottom: 40px;
+    right: -10px;
+   }
 .popup {
- 
   width:80%;
-
 }
 
 .popup h2 {
